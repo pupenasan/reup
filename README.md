@@ -1,4 +1,4 @@
-# Reskilling-Upskilling 5.0
+# [Reskilling-Upskilling 5.0](https://pupenasan.github.io/reup/)
 
 Публічні матеріали роботи робочої групи по перепідготовки та підготовки кадрів в рамках [Української спільнота практик Індустрії 5.0 (СоР 5.0)](https://appau.org.ua/news/community-indusrty-5-0/)
 
